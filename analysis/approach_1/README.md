@@ -2,7 +2,7 @@
 
 ![approach1](https://media.giphy.com/media/3ov9kacqGycKQRH6Vy/giphy.gif)
 
-#### [Go Straight to the Code](https://ramonprz01.github.io/bg-insead-project/analysis/approach_1/code)
+#### [Go Straight to the Code](https://ramonpzg.github.io/bg-project/analysis/approach_1/code)
 
 ## In a Nutshell - > Keyword Search in Job Add Text
 

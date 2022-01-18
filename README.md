@@ -7,8 +7,8 @@ Explanations and examples on how to run the code can be found within each sectio
 ## Table of Contents
 
 1. Objective
-2. [Data](https://ramonprz01.github.io/bg-insead-project/data)
-3. [Analysis](https://ramonprz01.github.io/bg-insead-project/analysis)
+2. [Data](https://ramonpzg.github.io/bg-project/data)
+3. [Analysis](https://ramonpzg.github.io/bg-project/analysis)
 
 
 ## 1. Objectives
@@ -25,7 +25,7 @@ Or, can we capture variance across companies in terms of:
 
 There are many ways to try to get at these constructs, but none are perfect.
 
-## 2. [Data](https://ramonprz01.github.io/bg-insead-project/data)
+## 2. [Data](https://ramonpzg.github.io/bg-project/data)
 
 The dataset was purchased from Burning Glass Technologies and it is a compilation of large number of job ads that have been posted by many companies over the last 13 years (2007-2020) and 2007.
 
@@ -39,7 +39,7 @@ The data comes with 57 variables and the dictionary is available in the data fol
 
 Click on the link above to find more information about the variables.
 
-## [Cleaning](https://ramonprz01.github.io/bg-insead-project/cleaning)
+## [Cleaning](https://ramonpzg.github.io/bg-project/cleaning)
 
 For the whole process on how to collect, extract, and clean the dataset, please visit the cleaning folder. For the cleaned datasets, please use the links below.
 
@@ -47,7 +47,7 @@ For the whole process on how to collect, extract, and clean the dataset, please 
 - [Cleaned 76k Companies Sample](https://www.dropbox.com/sh/4jleqjmw5rf7vd9/AADL_TwWFY93TCUPm6L87akua?dl=0)
 - [Cleaned Salary Data](https://www.dropbox.com/sh/bxaenjocw9drj3o/AAChXPpMNteu2FHbQuNk-duHa?dl=0)
 
-## 4. [Analysis](https://ramonprz01.github.io/bg-insead-project/analysis)
+## 4. [Analysis](https://ramonpzg.github.io/bg-project/analysis)
 
 ### Here is where to find what?
 
@@ -76,9 +76,7 @@ For the whole process on how to collect, extract, and clean the dataset, please 
     - [Results-Data](https://www.dropbox.com/sh/j4s031wc5vp89jd/AADdyOV_tKNKz_w309ySDRfka?dl=0)
 7. Any descriptives that you’ve produced at the industry level (e.g. 2- and 4-digit NAICS codes)
 
-They are descriptives throughout a lot of the notebooks. There is no explicit notebook devoted to descriptives though. The details on the tasks below can be found in the output of the notebooks above.
-
-    - How many companies hire in each code each year
-    - How many unique job posts there are
-    - Any details on missing data for these
-        - This was done on the already cleaned data
+There are descriptives throughout a lot of the notebooks. There is no explicit notebook devoted to descriptives though. The details on the tasks below can be found in the output of the notebooks above.
+- How many companies hired in each occupation code each year
+- How many unique job posts there are
+- Any details on missing data for these. This was done on the already cleaned data
