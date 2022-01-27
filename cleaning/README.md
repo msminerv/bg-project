@@ -37,3 +37,8 @@ The way in which we received the data was by obtaining access to a remote source
 8. Type `prompt`
 9. Type `mget *` and all of the files for that folder will begin to download  
 NB: You can type the name of a single file or multiple as well.
+
+## Third way to access the data
+1. Enter the shared Jupyter Notebook
+2. Access ".ipynb"
+3. Description of steps are in the code
